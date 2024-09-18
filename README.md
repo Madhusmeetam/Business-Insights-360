@@ -100,7 +100,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ## Data Model:
 
-https://github.com/nabneetnanda/Business_Insights_360/assets/166239073/44b4f262-31e2-4261-afea-e58ceef6f593
+https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Datamodel.pdf
+
 
 
 ## Soft Skills:
