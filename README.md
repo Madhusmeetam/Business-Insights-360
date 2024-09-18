@@ -100,9 +100,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ## Data Model:
 
-https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Datamodel.pdf
-
-
+https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Data%20Model.mp4
 
 ## Soft Skills:
 - [x]	Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
