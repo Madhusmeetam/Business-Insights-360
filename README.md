@@ -9,7 +9,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 - **View objective:** 
 
-    **1.** Created a _[Home Page](https://github.com/nabneetnanda/Business_Insights_360/blob/main/Home%20Page_BI360.pdf)_ for the user to navigate to different Views in the Dashboard.
+    **1.** Created a _[Home Page](https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Home.pdf)_ for the user to navigate to different Views in the Dashboard.
 
     **2.** The Images have navigation to their respective Views.
 
