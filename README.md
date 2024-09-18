@@ -24,7 +24,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Finance View](https://github.com/nabneetnanda/Business_Insights_360/blob/main/Finance%20View_BI360.pdf)_
+    **1.** Created a Dashboard for _[Finance View](https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Finance.pdf )_
 
 - **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
@@ -36,7 +36,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/nabneetnanda/Business_Insights_360/blob/main/Sales%20View_BI360.pdf)_
+    **1.** Created a Dashboard for _[Sales View]( https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Sales%20view.pdf )_
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -50,7 +50,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Marketing View](https://github.com/nabneetnanda/Business_Insights_360/blob/main/Marketing%20View1_360.pdf)
+    **1.** Created a Dashboard for _[Marketing View]( https://github.com/Madhusmeetam/Business-Insights-360/blob/main/Market%20View.pdf)
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
   
@@ -64,7 +64,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/nabneetnanda/Business_Insights_360/blob/main/Supply%20Chain_BI360.pdf)_
+    **1.** Created a Dashboard for _[Supply Chain View]( https://github.com/Madhusmeetam/Business-Insights-360/blob/main/SupplyChain.pdf )_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
@@ -76,7 +76,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Executive View](https://github.com/nabneetnanda/Business_Insights_360/blob/main/Executive%20View_BI360.pdf)_
+    **1.** Created a Dashboard for _[Executive View](     )_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
 
